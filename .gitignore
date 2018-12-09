@@ -1,0 +1,5 @@
+venv/
+.#*
+Configuration_du_Projet
+__pycache__/
+db.sqlite3
